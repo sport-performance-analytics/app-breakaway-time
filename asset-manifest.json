@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/app-breakaway-time/static/css/main.bc1fbcf4.css",
+    "main.js": "/app-breakaway-time/static/js/main.f694ea25.js",
+    "static/js/787.9abdd125.chunk.js": "/app-breakaway-time/static/js/787.9abdd125.chunk.js",
+    "index.html": "/app-breakaway-time/index.html",
+    "main.bc1fbcf4.css.map": "/app-breakaway-time/static/css/main.bc1fbcf4.css.map",
+    "main.f694ea25.js.map": "/app-breakaway-time/static/js/main.f694ea25.js.map",
+    "787.9abdd125.chunk.js.map": "/app-breakaway-time/static/js/787.9abdd125.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc1fbcf4.css",
+    "static/js/main.f694ea25.js"
+  ]
+}

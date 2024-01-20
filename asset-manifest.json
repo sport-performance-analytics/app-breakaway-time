@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/app-breakaway-time/static/css/main.bc1fbcf4.css",
-    "main.js": "/app-breakaway-time/static/js/main.9c141dbc.js",
+    "main.js": "/app-breakaway-time/static/js/main.39e72f47.js",
     "static/js/787.9abdd125.chunk.js": "/app-breakaway-time/static/js/787.9abdd125.chunk.js",
     "index.html": "/app-breakaway-time/index.html",
     "main.bc1fbcf4.css.map": "/app-breakaway-time/static/css/main.bc1fbcf4.css.map",
-    "main.9c141dbc.js.map": "/app-breakaway-time/static/js/main.9c141dbc.js.map",
+    "main.39e72f47.js.map": "/app-breakaway-time/static/js/main.39e72f47.js.map",
     "787.9abdd125.chunk.js.map": "/app-breakaway-time/static/js/787.9abdd125.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bc1fbcf4.css",
-    "static/js/main.9c141dbc.js"
+    "static/js/main.39e72f47.js"
   ]
 }
